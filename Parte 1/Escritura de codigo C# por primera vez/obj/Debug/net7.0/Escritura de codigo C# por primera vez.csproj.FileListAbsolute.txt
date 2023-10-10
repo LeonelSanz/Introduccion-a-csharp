@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\bin\Debug\net7.0\Escritura de codigo C# por primera vez.exe
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\bin\Debug\net7.0\Escritura de codigo C# por primera vez.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\bin\Debug\net7.0\Escritura de codigo C# por primera vez.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\bin\Debug\net7.0\Escritura de codigo C# por primera vez.dll
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\bin\Debug\net7.0\Escritura de codigo C# por primera vez.pdb
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\Escritura de codigo C# por primera vez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\Escritura de codigo C# por primera vez.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\Escritura de codigo C# por primera vez.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\Escritura de codigo C# por primera vez.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\Escritura de codigo C# por primera vez.dll
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\refint\Escritura de codigo C# por primera vez.dll
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\Escritura de codigo C# por primera vez.pdb
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\Escritura de codigo C# por primera vez.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Escritura de codigo C# por primera vez\obj\Debug\net7.0\ref\Escritura de codigo C# por primera vez.dll

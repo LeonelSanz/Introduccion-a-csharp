@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Escritura de codigo C# por primera vez/1.0.0": {
+        "runtime": {
+          "Escritura de codigo C# por primera vez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escritura de codigo C# por primera vez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

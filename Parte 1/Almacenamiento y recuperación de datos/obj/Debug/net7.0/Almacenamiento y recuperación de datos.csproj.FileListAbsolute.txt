@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\bin\Debug\net7.0\Almacenamiento y recuperación de datos.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\bin\Debug\net7.0\Almacenamiento y recuperación de datos.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\bin\Debug\net7.0\Almacenamiento y recuperación de datos.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\bin\Debug\net7.0\Almacenamiento y recuperación de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\bin\Debug\net7.0\Almacenamiento y recuperación de datos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\Almacenamiento y recuperación de datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\Almacenamiento y recuperación de datos.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\Almacenamiento y recuperación de datos.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\Almacenamiento y recuperación de datos.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\Almacenamiento y recuperación de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\refint\Almacenamiento y recuperación de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\Almacenamiento y recuperación de datos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\Almacenamiento y recuperación de datos.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Almacenamiento y recuperación de datos\obj\Debug\net7.0\ref\Almacenamiento y recuperación de datos.dll
