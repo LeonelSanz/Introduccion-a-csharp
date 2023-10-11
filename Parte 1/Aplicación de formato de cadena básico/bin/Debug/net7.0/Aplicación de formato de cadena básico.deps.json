@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Aplicación de formato de cadena básico/1.0.0": {
+        "runtime": {
+          "Aplicación de formato de cadena básico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicación de formato de cadena básico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\bin\Debug\net7.0\Aplicación de formato de cadena básico.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\bin\Debug\net7.0\Aplicación de formato de cadena básico.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\bin\Debug\net7.0\Aplicación de formato de cadena básico.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\bin\Debug\net7.0\Aplicación de formato de cadena básico.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\bin\Debug\net7.0\Aplicación de formato de cadena básico.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\Aplicación de formato de cadena básico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\Aplicación de formato de cadena básico.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\Aplicación de formato de cadena básico.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\Aplicación de formato de cadena básico.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\Aplicación de formato de cadena básico.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\refint\Aplicación de formato de cadena básico.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\Aplicación de formato de cadena básico.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\Aplicación de formato de cadena básico.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\obj\Debug\net7.0\ref\Aplicación de formato de cadena básico.dll
