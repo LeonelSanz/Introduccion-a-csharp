@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Realización de operaciones básicas con números/1.0.0": {
+        "runtime": {
+          "Realización de operaciones básicas con números.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Realización de operaciones básicas con números/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

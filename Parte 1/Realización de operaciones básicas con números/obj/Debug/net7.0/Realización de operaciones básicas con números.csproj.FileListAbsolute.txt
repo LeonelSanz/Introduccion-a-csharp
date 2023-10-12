@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\bin\Debug\net7.0\Realización de operaciones básicas con números.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\bin\Debug\net7.0\Realización de operaciones básicas con números.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\bin\Debug\net7.0\Realización de operaciones básicas con números.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\bin\Debug\net7.0\Realización de operaciones básicas con números.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\bin\Debug\net7.0\Realización de operaciones básicas con números.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\Realización de operaciones básicas con números.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\Realización de operaciones básicas con números.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\Realización de operaciones básicas con números.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\Realización de operaciones básicas con números.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\Realización de operaciones básicas con números.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\refint\Realización de operaciones básicas con números.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\Realización de operaciones básicas con números.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\Realización de operaciones básicas con números.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\obj\Debug\net7.0\ref\Realización de operaciones básicas con números.dll

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Aplicación_de_formato_de_cadena_básico
-build_property.ProjectDir = d:\Archivos\Cursos\Introduccion a C#\Parte 1\Aplicación de formato de cadena básico\
+build_property.RootNamespace = Realización_de_operaciones_básicas_con_números
+build_property.ProjectDir = d:\Archivos\Cursos\Introduccion a C#\Parte 1\Realización de operaciones básicas con números\
