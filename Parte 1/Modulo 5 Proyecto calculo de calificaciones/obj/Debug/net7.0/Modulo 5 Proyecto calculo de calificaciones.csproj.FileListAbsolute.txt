@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\bin\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\bin\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\bin\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\bin\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\bin\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\refint\Modulo 5 Proyecto calculo de calificaciones.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\Modulo 5 Proyecto calculo de calificaciones.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 5 Proyecto calculo de calificaciones\obj\Debug\net7.0\ref\Modulo 5 Proyecto calculo de calificaciones.dll
