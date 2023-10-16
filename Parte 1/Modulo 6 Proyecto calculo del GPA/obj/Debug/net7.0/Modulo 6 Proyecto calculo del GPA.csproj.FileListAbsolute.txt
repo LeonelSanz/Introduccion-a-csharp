@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\bin\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\bin\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\bin\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\bin\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\bin\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\refint\Modulo 6 Proyecto calculo del GPA.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\Modulo 6 Proyecto calculo del GPA.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 1\Modulo 6 Proyecto calculo del GPA\obj\Debug\net7.0\ref\Modulo 6 Proyecto calculo del GPA.dll
