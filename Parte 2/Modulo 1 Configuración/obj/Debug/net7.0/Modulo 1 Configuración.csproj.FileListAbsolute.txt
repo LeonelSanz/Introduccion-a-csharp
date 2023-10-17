@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\bin\Debug\net7.0\Modulo 1 Configuración.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\bin\Debug\net7.0\Modulo 1 Configuración.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\bin\Debug\net7.0\Modulo 1 Configuración.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\bin\Debug\net7.0\Modulo 1 Configuración.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\bin\Debug\net7.0\Modulo 1 Configuración.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\Modulo 1 Configuración.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\Modulo 1 Configuración.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\Modulo 1 Configuración.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\Modulo 1 Configuración.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\Modulo 1 Configuración.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\refint\Modulo 1 Configuración.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\Modulo 1 Configuración.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\Modulo 1 Configuración.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 1 Configuración\obj\Debug\net7.0\ref\Modulo 1 Configuración.dll
