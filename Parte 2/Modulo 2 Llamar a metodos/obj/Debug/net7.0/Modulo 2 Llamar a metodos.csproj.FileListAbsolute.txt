@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\bin\Debug\net7.0\Modulo 2 Llamar a metodos.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\bin\Debug\net7.0\Modulo 2 Llamar a metodos.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\bin\Debug\net7.0\Modulo 2 Llamar a metodos.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\bin\Debug\net7.0\Modulo 2 Llamar a metodos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\bin\Debug\net7.0\Modulo 2 Llamar a metodos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\Modulo 2 Llamar a metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\Modulo 2 Llamar a metodos.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\Modulo 2 Llamar a metodos.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\Modulo 2 Llamar a metodos.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\Modulo 2 Llamar a metodos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\refint\Modulo 2 Llamar a metodos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\Modulo 2 Llamar a metodos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\Modulo 2 Llamar a metodos.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 2 Llamar a metodos\obj\Debug\net7.0\ref\Modulo 2 Llamar a metodos.dll
