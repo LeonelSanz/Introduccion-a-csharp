@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\bin\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\bin\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\bin\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\bin\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\bin\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\refint\Modulo 3 Adición de logica de decision al codigo.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\Modulo 3 Adición de logica de decision al codigo.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 3 Adición de logica de decision al codigo\obj\Debug\net7.0\ref\Modulo 3 Adición de logica de decision al codigo.dll
