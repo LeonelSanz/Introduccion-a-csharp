@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\bin\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\bin\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\bin\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\bin\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\bin\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\refint\Modulo 4 Almacenamiento e iteracion de secuencias de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\Modulo 4 Almacenamiento e iteracion de secuencias de datos.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 4 Almacenamiento e iteracion de secuencias de datos\obj\Debug\net7.0\ref\Modulo 4 Almacenamiento e iteracion de secuencias de datos.dll
