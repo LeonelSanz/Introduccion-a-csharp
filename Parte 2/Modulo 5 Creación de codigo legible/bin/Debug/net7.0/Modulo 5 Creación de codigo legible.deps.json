@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Modulo 5 Creación de codigo legible/1.0.0": {
+        "runtime": {
+          "Modulo 5 Creación de codigo legible.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modulo 5 Creación de codigo legible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

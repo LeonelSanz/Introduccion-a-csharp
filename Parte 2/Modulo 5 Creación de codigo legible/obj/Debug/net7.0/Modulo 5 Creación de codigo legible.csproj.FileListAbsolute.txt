@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\bin\Debug\net7.0\Modulo 5 Creación de codigo legible.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\bin\Debug\net7.0\Modulo 5 Creación de codigo legible.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\bin\Debug\net7.0\Modulo 5 Creación de codigo legible.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\bin\Debug\net7.0\Modulo 5 Creación de codigo legible.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\bin\Debug\net7.0\Modulo 5 Creación de codigo legible.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\Modulo 5 Creación de codigo legible.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\Modulo 5 Creación de codigo legible.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\Modulo 5 Creación de codigo legible.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\Modulo 5 Creación de codigo legible.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\Modulo 5 Creación de codigo legible.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\refint\Modulo 5 Creación de codigo legible.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\Modulo 5 Creación de codigo legible.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\Modulo 5 Creación de codigo legible.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 5 Creación de codigo legible\obj\Debug\net7.0\ref\Modulo 5 Creación de codigo legible.dll
