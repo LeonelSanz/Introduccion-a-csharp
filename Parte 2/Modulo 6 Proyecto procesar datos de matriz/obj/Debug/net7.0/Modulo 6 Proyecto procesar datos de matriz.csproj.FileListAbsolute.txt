@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\bin\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\bin\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\bin\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\bin\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\bin\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\refint\Modulo 6 Proyecto procesar datos de matriz.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\Modulo 6 Proyecto procesar datos de matriz.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 2\Modulo 6 Proyecto procesar datos de matriz\obj\Debug\net7.0\ref\Modulo 6 Proyecto procesar datos de matriz.dll
