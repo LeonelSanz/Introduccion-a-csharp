@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\bin\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\bin\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\bin\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\bin\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\bin\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\refint\Modulo 1 Evaluación de expresiones booleanas.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\Modulo 1 Evaluación de expresiones booleanas.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 1 Evaluación de expresiones booleanas\obj\Debug\net7.0\ref\Modulo 1 Evaluación de expresiones booleanas.dll
