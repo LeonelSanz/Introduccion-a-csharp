@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Modulo 2 Control de la logica y el ambito de las variables/1.0.0": {
+        "runtime": {
+          "Modulo 2 Control de la logica y el ambito de las variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modulo 2 Control de la logica y el ambito de las variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

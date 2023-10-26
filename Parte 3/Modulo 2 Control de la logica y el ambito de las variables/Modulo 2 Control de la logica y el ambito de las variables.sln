@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo 2 Control de la logica y el ambito de las variables", "Modulo 2 Control de la logica y el ambito de las variables.csproj", "{060F921F-D6AB-4A0E-B2D8-2C5E1E8C4F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060F921F-D6AB-4A0E-B2D8-2C5E1E8C4F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060F921F-D6AB-4A0E-B2D8-2C5E1E8C4F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060F921F-D6AB-4A0E-B2D8-2C5E1E8C4F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060F921F-D6AB-4A0E-B2D8-2C5E1E8C4F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C8039C0-3D59-449C-AA53-1B2ED56F8BC8}
+	EndGlobalSection
+EndGlobal

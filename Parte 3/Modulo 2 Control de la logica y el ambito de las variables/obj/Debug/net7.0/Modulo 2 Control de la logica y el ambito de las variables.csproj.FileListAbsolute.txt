@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\bin\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\bin\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\bin\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\bin\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\bin\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\refint\Modulo 2 Control de la logica y el ambito de las variables.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\Modulo 2 Control de la logica y el ambito de las variables.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 2 Control de la logica y el ambito de las variables\obj\Debug\net7.0\ref\Modulo 2 Control de la logica y el ambito de las variables.dll
