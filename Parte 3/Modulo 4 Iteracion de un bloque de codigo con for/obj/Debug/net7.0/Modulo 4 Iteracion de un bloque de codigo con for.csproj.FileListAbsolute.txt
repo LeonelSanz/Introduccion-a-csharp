@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\bin\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\bin\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\bin\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\bin\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\bin\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\refint\Modulo 4 Iteracion de un bloque de codigo con for.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\Modulo 4 Iteracion de un bloque de codigo con for.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 4 Iteracion de un bloque de codigo con for\obj\Debug\net7.0\ref\Modulo 4 Iteracion de un bloque de codigo con for.dll
