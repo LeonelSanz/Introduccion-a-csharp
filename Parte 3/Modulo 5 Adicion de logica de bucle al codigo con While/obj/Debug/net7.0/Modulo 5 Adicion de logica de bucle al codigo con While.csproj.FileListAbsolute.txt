@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\bin\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\bin\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\bin\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\bin\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\bin\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\refint\Modulo 5 Adicion de logica de bucle al codigo con While.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\Modulo 5 Adicion de logica de bucle al codigo con While.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\obj\Debug\net7.0\ref\Modulo 5 Adicion de logica de bucle al codigo con While.dll

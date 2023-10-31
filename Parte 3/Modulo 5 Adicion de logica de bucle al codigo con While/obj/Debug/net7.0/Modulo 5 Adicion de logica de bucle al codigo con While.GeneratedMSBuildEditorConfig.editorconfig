@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Modulo_5_Adicion_de_logica_de_bucle_al_codigo_con_While
+build_property.ProjectDir = D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 5 Adicion de logica de bucle al codigo con While\

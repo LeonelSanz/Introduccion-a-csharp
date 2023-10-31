@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo 5 Adicion de logica de bucle al codigo con While", "Modulo 5 Adicion de logica de bucle al codigo con While.csproj", "{522DEDED-093E-4237-B86A-EFC66B13BE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522DEDED-093E-4237-B86A-EFC66B13BE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522DEDED-093E-4237-B86A-EFC66B13BE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522DEDED-093E-4237-B86A-EFC66B13BE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522DEDED-093E-4237-B86A-EFC66B13BE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4DF91E2-76FB-4673-8326-710F1BFD1CF1}
+	EndGlobalSection
+EndGlobal
