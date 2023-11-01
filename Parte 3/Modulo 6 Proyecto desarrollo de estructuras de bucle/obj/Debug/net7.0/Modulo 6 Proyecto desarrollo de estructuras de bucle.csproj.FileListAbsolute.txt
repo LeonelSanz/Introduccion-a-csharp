@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\bin\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\bin\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\bin\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\bin\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\bin\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\refint\Modulo 6 Proyecto desarrollo de estructuras de bucle.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\Modulo 6 Proyecto desarrollo de estructuras de bucle.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 6 Proyecto desarrollo de estructuras de bucle\obj\Debug\net7.0\ref\Modulo 6 Proyecto desarrollo de estructuras de bucle.dll
