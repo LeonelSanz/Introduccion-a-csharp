@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Modulo_7_Proyecto_desarrollo_de_estructuras_de_bifurcacion_y_bucle
+build_property.ProjectDir = D:\Archivos\Cursos\Introduccion a C#\Parte 3\Modulo 7 Proyecto desarrollo de estructuras de bifurcacion y bucle\
