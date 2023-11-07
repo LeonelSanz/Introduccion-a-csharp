@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\bin\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\bin\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\bin\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\bin\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\bin\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\refint\Modulo 1 Eleccion del tipo de datos correcto.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\Modulo 1 Eleccion del tipo de datos correcto.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 1 Eleccion del tipo de datos correcto\obj\Debug\net7.0\ref\Modulo 1 Eleccion del tipo de datos correcto.dll
