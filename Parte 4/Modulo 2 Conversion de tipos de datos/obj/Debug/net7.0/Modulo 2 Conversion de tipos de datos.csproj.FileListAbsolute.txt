@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\bin\Debug\net7.0\Modulo 2 Conversion de tipos de datos.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\bin\Debug\net7.0\Modulo 2 Conversion de tipos de datos.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\bin\Debug\net7.0\Modulo 2 Conversion de tipos de datos.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\bin\Debug\net7.0\Modulo 2 Conversion de tipos de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\bin\Debug\net7.0\Modulo 2 Conversion de tipos de datos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\Modulo 2 Conversion de tipos de datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\Modulo 2 Conversion de tipos de datos.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\Modulo 2 Conversion de tipos de datos.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\Modulo 2 Conversion de tipos de datos.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\Modulo 2 Conversion de tipos de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\refint\Modulo 2 Conversion de tipos de datos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\Modulo 2 Conversion de tipos de datos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\Modulo 2 Conversion de tipos de datos.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 2 Conversion de tipos de datos\obj\Debug\net7.0\ref\Modulo 2 Conversion de tipos de datos.dll
