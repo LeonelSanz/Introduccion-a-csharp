@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\bin\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\bin\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\bin\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\bin\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\bin\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\refint\Modulo 3 Operaciones en matrices mediante métodos auxiliares.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\Modulo 3 Operaciones en matrices mediante métodos auxiliares.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 3 Operaciones en matrices mediante métodos auxiliares\obj\Debug\net7.0\ref\Modulo 3 Operaciones en matrices mediante métodos auxiliares.dll
