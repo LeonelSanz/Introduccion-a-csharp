@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\bin\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\bin\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\bin\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\bin\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\bin\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\refint\Modulo 4 Aplicacion de formato a datos alfanumericos.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\Modulo 4 Aplicacion de formato a datos alfanumericos.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 4 Aplicacion de formato a datos alfanumericos\obj\Debug\net7.0\ref\Modulo 4 Aplicacion de formato a datos alfanumericos.dll
