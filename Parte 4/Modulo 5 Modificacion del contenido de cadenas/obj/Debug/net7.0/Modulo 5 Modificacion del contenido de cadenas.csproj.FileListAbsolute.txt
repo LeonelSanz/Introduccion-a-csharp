@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\bin\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\bin\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\bin\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\bin\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\bin\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\refint\Modulo 5 Modificacion del contenido de cadenas.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\Modulo 5 Modificacion del contenido de cadenas.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 5 Modificacion del contenido de cadenas\obj\Debug\net7.0\ref\Modulo 5 Modificacion del contenido de cadenas.dll
