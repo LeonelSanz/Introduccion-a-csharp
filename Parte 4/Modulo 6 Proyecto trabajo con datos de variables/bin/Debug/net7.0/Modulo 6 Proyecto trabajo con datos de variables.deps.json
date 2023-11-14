@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Modulo 6 Proyecto trabajo con datos de variables/1.0.0": {
+        "runtime": {
+          "Modulo 6 Proyecto trabajo con datos de variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modulo 6 Proyecto trabajo con datos de variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

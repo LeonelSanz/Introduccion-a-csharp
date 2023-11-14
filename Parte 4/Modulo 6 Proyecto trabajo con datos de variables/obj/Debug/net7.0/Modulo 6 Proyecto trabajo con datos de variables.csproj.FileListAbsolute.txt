@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\bin\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\bin\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\bin\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\bin\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\bin\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\refint\Modulo 6 Proyecto trabajo con datos de variables.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\Modulo 6 Proyecto trabajo con datos de variables.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 4\Modulo 6 Proyecto trabajo con datos de variables\obj\Debug\net7.0\ref\Modulo 6 Proyecto trabajo con datos de variables.dll
