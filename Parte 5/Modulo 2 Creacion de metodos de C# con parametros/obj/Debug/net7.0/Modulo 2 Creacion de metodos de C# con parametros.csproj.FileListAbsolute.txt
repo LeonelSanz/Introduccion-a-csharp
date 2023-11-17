@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\bin\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\bin\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\bin\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\bin\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\bin\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\refint\Modulo 2 Creacion de metodos de C# con parametros.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\Modulo 2 Creacion de metodos de C# con parametros.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 2 Creacion de metodos de C# con parametros\obj\Debug\net7.0\ref\Modulo 2 Creacion de metodos de C# con parametros.dll
