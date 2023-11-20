@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\bin\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\bin\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\bin\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\bin\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\bin\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\refint\Modulo 3 Creacion de metodos de C# que devuelven valores.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\Modulo 3 Creacion de metodos de C# que devuelven valores.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 3 Creacion de metodos de C# que devuelven valores\obj\Debug\net7.0\ref\Modulo 3 Creacion de metodos de C# que devuelven valores.dll
