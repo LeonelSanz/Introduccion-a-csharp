@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Modulo 4 Proyecto Planeamiento de una visita al zoologico de mascotas/1.0.0": {
+        "runtime": {
+          "Modulo 4 Proyecto Planeamiento de una visita al zoologico de mascotas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modulo 4 Proyecto Planeamiento de una visita al zoologico de mascotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
