@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMBFyO8FTAeVug6rAP1V6GSRHZFmXmeEKQkRh9eNXAtSVNK114SdO8yAZfy+BeefI6KYpG2IfmJ8CizEpW1gug==",
+  "success": true,
+  "projectFilePath": "D:\\Archivos\\Cursos\\Introduccion a C#\\Parte 5\\Modulo 5 Proyecto Creacion de un minijuego\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leogo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\leogo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\leogo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\leogo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

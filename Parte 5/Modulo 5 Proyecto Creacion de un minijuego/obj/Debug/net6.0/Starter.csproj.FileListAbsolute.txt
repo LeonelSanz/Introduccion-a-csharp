@@ -1,0 +1,14 @@
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\bin\Debug\net6.0\Starter.exe
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\bin\Debug\net6.0\Starter.deps.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\bin\Debug\net6.0\Starter.runtimeconfig.json
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\bin\Debug\net6.0\Starter.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\bin\Debug\net6.0\Starter.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\Starter.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\refint\Starter.dll
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\Starter.pdb
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+D:\Archivos\Cursos\Introduccion a C#\Parte 5\Modulo 5 Proyecto Creacion de un minijuego\obj\Debug\net6.0\ref\Starter.dll
